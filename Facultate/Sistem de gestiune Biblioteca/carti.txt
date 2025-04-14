@@ -1,0 +1,10 @@
+The Enchanted Forest;J.K. Rowling;Fantasy;978-3-16-148410-0;DA
+The Quantum Thief;Hannu Rajaniemi;Science Fiction;978-0-571-26825-5;NU
+The Silent Patient;Alex Michaelides;Thriller;978-1-250-30685-8;NU
+Educated: A Memoir;Tara Westover;Non-Fiction;978-0-399-59051-4;NU
+The Night Circus;Erin Morgenstern;Fantasy;978-0-385-53363-0;NU
+The Da Vinci Code;Dan Brown;Mystery;978-0-385-50420-1;DA
+The Great Gatsby;F. Scott Fitzgerald;Historical;978-0-7432-7356-5;NU
+The Fault in Our Stars;John Green;Young Adult;978-0-525-47881-2;DA
+Pride and Prejudice;Jane Austen;Romance;978-0-19-953556-9;NU
+Sapiens: A Brief History of Humankind;Yuval Noah Harari;Non-Fiction;978-0-06-231609-7;DA
